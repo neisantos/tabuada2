@@ -11,7 +11,7 @@
         {
            for(int i = 2; i <= 10; i++)
            {   Console.WriteLine("");
-               Console.WriteLine("*****************");
+               Console.WriteLine("***********");
                Console.WriteLine($"{i} X 1 = {Multiplicar(i,1)}");  
                Console.WriteLine($"{i} X 2 = {Multiplicar(i,2)}");               
                Console.WriteLine($"{i} X 3 = {Multiplicar(i,3)}");            
