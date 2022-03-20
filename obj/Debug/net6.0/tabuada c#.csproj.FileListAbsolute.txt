@@ -1,0 +1,15 @@
+F:\projeto\tabuada c#\bin\Debug\net6.0\tabuada c#.exe
+F:\projeto\tabuada c#\bin\Debug\net6.0\tabuada c#.deps.json
+F:\projeto\tabuada c#\bin\Debug\net6.0\tabuada c#.runtimeconfig.json
+F:\projeto\tabuada c#\bin\Debug\net6.0\tabuada c#.dll
+F:\projeto\tabuada c#\bin\Debug\net6.0\tabuada c#.pdb
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.csproj.AssemblyReference.cache
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.AssemblyInfoInputs.cache
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.AssemblyInfo.cs
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.csproj.CoreCompileInputs.cache
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.dll
+F:\projeto\tabuada c#\obj\Debug\net6.0\refint\tabuada c#.dll
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.pdb
+F:\projeto\tabuada c#\obj\Debug\net6.0\tabuada c#.genruntimeconfig.cache
+F:\projeto\tabuada c#\obj\Debug\net6.0\ref\tabuada c#.dll
